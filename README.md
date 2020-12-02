@@ -2,9 +2,7 @@
 
 <br />
 
-Hi, I'm [Noah](https://nhalstead.me/), a Ninja Developer 🚀
-
-Currently I'm a Full Stack Developer at [SecureCoders](https://securecoders.com), and a Mentor for a FIRST Robotics Team, [Velocity 5420](https://www.sjrobotics.com/velocity/), teaching students how to program in Java utilzing modern tools like Git. I enjoy searching for solutions for modern problems and exploring new technologies.
+Hello, I'm [Noah](https://nhalstead.me/). Currently I work at [SecureCoders](https://securecoders.com) as Full Stack Developer, and a Mentor for a FIRST Robotics Team, [Velocity 5420](https://www.sjrobotics.com/velocity/), teaching students how to program in Java utilzing modern tools like Git. I enjoy searching for solutions for modern problems and exploring new technologies.
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhalstead&layout=compact&theme=gotham" height="200" />
 
