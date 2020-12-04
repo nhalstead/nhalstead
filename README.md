@@ -11,6 +11,7 @@ Hello, I'm [Noah](https://nhalstead.me/). Currently I work at [SecureCoders](htt
 <p>
 	<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 	<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+	<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>
 	<img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
 	<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-dd4b13?style=flat-square&logo=laravel&logoColor=white" />
 	<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
