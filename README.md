@@ -2,7 +2,7 @@
 
 <br />
 
-Hello, I'm [Noah](https://nhalstead.me/). Currently, I work at [SecureCoders](https://securecoders.com) as a Full Stack Developer and a Mentor for a FIRST Robotics Team, [Velocity 5420](https://www.sjrobotics.com/velocity/), teaching students how to program in Java utilizing modern tools like Git. I enjoy searching for solutions to modern problems and exploring new technologies.
+Hello, I'm [Noah](https://nhalstead.me/). Currently, I work at [SecureCoders](https://securecoders.com) as a Full Stack Developer and a Mentor for a FIRST Robotics Team, [LUNATECS 316](https://lunatecs.org/), teaching students how to program in Java utilizing modern tools like Git. I enjoy searching for solutions to modern problems and exploring new technologies.
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhalstead&layout=compact&theme=gotham" height="200" />
 
